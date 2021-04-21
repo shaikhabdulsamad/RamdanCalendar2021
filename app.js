@@ -4,10 +4,10 @@ var sehri = ['4:51am', '4:50am', '4:49am', ' 4:48am',' 4:47am','4:46am','4:45am'
 ' 4:27am','4:26am','4:25am','4:24am','4:24am'];
 
 var iftari =[
-    '6:55pm','6:56pm','6:56pm','6:57pm','6:57pm','6:57pm','6:58pm','6:58pm','6:59pm',
+    '6:55pm','6:55pm','6:56pm','6:56pm','6:57pm','6:57pm','6:57pm','6:58pm','6:58pm','6:59pm',
 '6:59pm','7:00pm','7:00pm','7:01pm','7:01pm','7:02pm','7:02pm','7:03pm','7:03pm','7:04pm',
 '7:04pm','7:05pm','7:05pm','7:06pm','7:06pm','7:07pm','7:07pm','7:08pm','7:08pm',
-'7:09pm','7:09pm'];
+'7:09pm'];
 
 var a = prompt('Do you want to know Sehr and Iftar timing of Ramdan 2021? Search date here...');
 
