@@ -11,128 +11,101 @@ var iftari =[
 
 var a = prompt('Do you want to know Sehr and Iftar timing of Ramdan 2021? Search date here...');
 
-var b;
-var c;
+
 
 if(a == 1){
-  b = sehri[0]
-  c = iftari[0]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[0] + '\n' + 'Iftari : ' + iftari[0])
+ 
 }
 else if(a == 2){
-  b = sehri[1]
-  c = iftari[1]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[1] + '\n' + 'Iftari : ' + iftari[1])
 }
 else if(a == 3){
-  b = sehri[2]
-  c = iftari[2]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[2] + '\n' + 'Iftari : ' + iftari[2])
 }
 else if(a == 4){
-  b = sehri[3]
-  c = iftari[3]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[3] + '\n' + 'Iftari : ' + iftari[3])
 }
 else if(a == 5){
-  b = sehri[4]
-  c = iftari[4]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[4] + '\n' + 'Iftari : ' + iftari[4])
 }
 else if(a == 6){
-  b = sehri[5]
-  c = iftari[5]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[5] + '\n' + 'Iftari : ' + iftari[5])
 }
 else if(a == 7){
-  b = sehri[6]
-  c = iftari[6]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[6] + '\n' + 'Iftari : ' + iftari[6])
 }
 else if(a == 8){
-  b = sehri[7]
-  c = iftari[7]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[7] + '\n' + 'Iftari : ' + iftari[7])
 }
 else if(a == 9){
-  b = sehri[8]
-  c = iftari[8]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[8] + '\n' + 'Iftari : ' + iftari[8])
 }
 else if(a == 10){
-  b = sehri[11]
-  c = iftari[11]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[9] + '\n' + 'Iftari : ' + iftari[9])
 }
 else if(a == 11){
-  b = sehri[12]
-  c = iftari[12]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[10] + '\n' + 'Iftari : ' + iftari[10])
 }
 else if(a == 12){
-  b = sehri[13]
-  c = iftari[13]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[11] + '\n' + 'Iftari : ' + iftari[11])
 }
 else if(a == 13){
-  b = sehri[14]
-  c = iftari[14]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[12] + '\n' + 'Iftari : ' + iftari[12])
 }
 else if(a == 14){
-  b = sehri[15]
-  c = iftari[15]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[13] + '\n' + 'Iftari : ' + iftari[13])
 }
 else if(a == 15){
-  b = sehri[16]
-  c = iftari[16]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[14] + '\n' + 'Iftari : ' + iftari[14])
 }
 else if(a == 16){
-  b = sehri[17]
-  c = iftari[17]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[15] + '\n' + 'Iftari : ' + iftari[15])
 }
 else if(a == 17){
-  b = sehri[18]
-  c = iftari[18]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[16] + '\n' + 'Iftari : ' + iftari[16])
 }
 else if(a == 18){
-  b = sehri[19]
-  c = iftari[19]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[17] + '\n' + 'Iftari : ' + iftari[17])
 }
 else if(a == 19){
-  b = sehri[20]
-  c = iftari[20]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[18] + '\n' + 'Iftari : ' + iftari[18])
 }
 else if(a == 20){
-  b = sehri[21]
-  c = iftari[21]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[19] + '\n' + 'Iftari : ' + iftari[19])
 }
 else if(a == 21){
-  b = sehri[22]
-  c = iftari[22]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[20] + '\n' + 'Iftari : ' + iftari[20])
 }
 else if(a == 22){
-  b = sehri[23]
-  c = iftari[23]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[21] + '\n' + 'Iftari : ' + iftari[21])
 }
 else if(a == 23){
-  b = sehri[24]
-  c = iftari[24]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[22] + '\n' + 'Iftari : ' + iftari[22])
 }
 else if(a == 24){
-  b = sehri[25]
-  c = iftari[25]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[23] + '\n' + 'Iftari : ' + iftari[23])
 }
 else if(a == 25){
-  b = sehri[26]
-  c = iftari[26]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[24] + '\n' + 'Iftari : ' + iftari[24])
 }
 else if(a == 26){
-  b = sehri[27]
-  c = iftari[27]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[25] + '\n' + 'Iftari : ' + iftari[25])
 }
 else if(a == 27){
-  b = sehri[28]
-  c = iftari[28]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[26] + '\n' + 'Iftari : ' + iftari[26])
 }
 else if(a == 28){
-  b = sehri[29]
-  c = iftari[29]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[27] + '\n' + 'Iftari : ' + iftari[27])
 }
 else if(a == 29){
-  b = sehri[30]
-  c = iftari[30]
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[28] + '\n' + 'Iftari : ' + iftari[28])
+}
+else if(a == 30){
+  alert(a + ' Ramadan' + '\n' +'Sehri : ' + sehri[29] + '\n' + 'Iftari : ' + iftari[29])
 }
 else{
-  alert('Please enter correct date' + '\n' + 'from 1-29')
+  alert('Please enter correct date' + '\n' + 'from 1-30')
   
 }
 
-alert(a + ' Ramadan' + '\n' +'Sehri : ' + b + '\n' + 'Iftari : ' + c)
