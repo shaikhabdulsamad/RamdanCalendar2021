@@ -9,7 +9,7 @@ var iftari =[
 '7:04pm','7:05pm','7:05pm','7:06pm','7:06pm','7:07pm','7:07pm','7:08pm','7:08pm',
 '7:09pm'];
 
-var a = prompt('Do you want to know Sehr and Iftar timing of Ramdan 2021? Search date here...');
+var a = prompt('Do you want to know Sehr and Iftar timing of Ramadan 2021? Search date here...');
 
 
 
